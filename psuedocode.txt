@@ -10,3 +10,7 @@ Class for timer
   pick work time
   pick break timer
   after certain amounts, you can
+
+
+
+Init Screen
