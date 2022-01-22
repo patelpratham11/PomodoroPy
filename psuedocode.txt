@@ -1,0 +1,12 @@
+Functionality...
+  1. Timer
+  2. Save Data
+  3. Graph Saved Data
+  4. Work v. Break graph
+  pip
+
+
+Class for timer
+  pick work time
+  pick break timer
+  after certain amounts, you can
